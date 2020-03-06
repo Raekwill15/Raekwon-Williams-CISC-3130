@@ -1,0 +1,802 @@
+
+WEEK2
+
+Position 
+"Track Name" 
+Artist 
+
+198 
+"you should see me in a crown" 
+Billie Eilish 
+
+67 
+"No Shame" 
+5 Seconds of Summer 
+
+175 
+"Youngblood" 
+5 Seconds of Summer 
+
+80 
+"Alone Pt. II" 
+Alan Walker 
+
+183 
+"Let Me Down Slowly" 
+Alec Benjamin 
+
+40 
+"What If I Told You That I Love You" 
+Ali Gatie 
+
+76 
+"It's You" 
+Ali Gatie 
+
+120 
+"Birthday" 
+Anne-Marie 
+
+106 
+"Yellow Hearts" 
+Ant Saunders 
+
+37 
+"Keii" 
+Anuel AA 
+
+52 
+"China" 
+Anuel AA 
+
+152 
+"Infeliz" 
+Arcangel 
+
+65 
+"7 rings" 
+Ariana Grande 
+
+136 
+"thank u next" 
+Ariana Grande 
+
+8 
+"ROXANNE" 
+Arizona Zervas 
+
+140 
+"Sweet but Psycho" 
+Ava Max 
+
+66 
+"Callaita" 
+Bad Bunny 
+
+30 
+"Vete" 
+Bad Bunny 
+
+170 
+"I.F.L.Y." 
+Bazzi 
+
+138 
+"Eastside (with Halsey & Khalid)" 
+benny blanco 
+
+50 
+"when the party's over" 
+Billie Eilish 
+
+109 
+"ocean eyes" 
+Billie Eilish 
+
+158 
+"all the good girls go to hell" 
+Billie Eilish 
+
+115 
+"bury a friend" 
+Billie Eilish 
+
+169 
+"i love you" 
+Billie Eilish 
+
+17 
+"bad guy" 
+Billie Eilish 
+
+177 
+"wish you were gay" 
+Billie Eilish 
+
+56 
+"lovely (with Khalid)" 
+Billie Eilish 
+
+11 
+"everything i wanted" 
+Billie Eilish 
+
+16 
+"RITMO (Bad Boys For Life)" 
+Black Eyed Peas 
+
+104 
+"me & ur ghost" 
+blackbear 
+
+46 
+"hot girl bummer" 
+blackbear 
+
+41 
+"SUGAR" 
+BROCKHAMPTON 
+
+86 
+"Black Swan" 
+BTS 
+
+23 
+"My Oh My (feat. DaBaby)" 
+Camila Cabello 
+
+162 
+"Tutu" 
+Camilo 
+
+163 
+"No Guidance (feat. Drake)" 
+Chris Brown 
+
+139 
+"Maniac" 
+Conan Gray 
+
+107 
+"VIBEZ" 
+DaBaby 
+
+182 
+"Suge" 
+DaBaby 
+
+72 
+"TOES (feat. Lil Baby & Moneybagg Yo)" 
+DaBaby 
+
+44 
+"BOP" 
+DaBaby 
+
+98 
+"Que Tire Pa Lante" 
+Daddy Yankee 
+
+118 
+"Definitivamente" 
+Daddy Yankee 
+
+193 
+"Con Calma" 
+Daddy Yankee 
+
+35 
+"Hola - Remix" 
+Dalex 
+
+95 
+"Bellaquita - Remix" 
+Dalex 
+
+54 
+"10000 Hours (with Justin Bieber)" 
+Dan + Shay 
+
+179 
+"Be Alright" 
+Dean Lewis 
+
+25 
+"Sigues Con El" 
+Dimelo Flow 
+
+180 
+"Loco Contigo (feat. J. Balvin & Tyga)" 
+DJ Snake 
+
+24 
+"Say So" 
+Doja Cat 
+
+166 
+"3 Nights" 
+Dominic Fike 
+
+60 
+"No Idea" 
+Don Toliver 
+
+195 
+"God's Plan" 
+Drake 
+
+117 
+"Money In The Grave (Drake ft. Rick Ross)" 
+Drake 
+
+4 
+"Don't Start Now" 
+Dua Lipa 
+
+21 
+"Physical" 
+Dua Lipa 
+
+116 
+"Shape of You" 
+Ed Sheeran 
+
+58 
+"Beautiful People (feat. Khalid)" 
+Ed Sheeran 
+
+87 
+"South of the Border (feat. Camila Cabello & Cardi B)" 
+Ed Sheeran 
+
+45 
+"I Don't Care (with Justin Bieber)" 
+Ed Sheeran 
+
+135 
+"Perfect" 
+Ed Sheeran 
+
+199 
+"Photograph" 
+Ed Sheeran 
+
+146 
+"Hate Me (with Juice WRLD)" 
+Ellie Goulding 
+
+129 
+"Lose Yourself - From ""8 Mile"" Soundtrack" 
+Eminem 
+
+12 
+"Godzilla (feat. Juice WRLD)" 
+Eminem 
+
+9 
+"Life Is Good (feat. Drake)" 
+Future 
+
+134 
+"Still Be Friends (feat. Tory Lanez & Tyga)" 
+G-Eazy 
+
+200 
+"A Gente Fez Amor - Ao Vivo" 
+Gusttavo Lima 
+
+19 
+"You should be sad" 
+Halsey 
+
+96 
+"Without Me" 
+Halsey 
+
+63 
+"Watermelon Sugar" 
+Harry Styles 
+
+127 
+"Lights Up" 
+Harry Styles 
+
+20 
+"Adore You" 
+Harry Styles 
+
+187 
+"Falling" 
+Harry Styles 
+
+137 
+"Liberdade ProvisÃ³ria - Ao Vivo" 
+Henrique & Juliano 
+
+197 
+"Thunder" 
+Imagine Dragons 
+
+97 
+"Believer" 
+Imagine Dragons 
+
+178 
+"QUE PRETENDES" 
+J Balvin 
+
+91 
+"Blanco" 
+J Balvin 
+
+38 
+"Morado" 
+J Balvin 
+
+64 
+"LA CANCIÃ“N" 
+J Balvin 
+
+194 
+"MIDDLE CHILD" 
+J. Cole 
+
+101 
+"WHATS POPPIN" 
+Jack Harlow 
+
+82 
+"OUT WEST (feat. Young Thug)" 
+JACKBOYS 
+
+122 
+"Say You Won't Let Go" 
+James Arthur 
+
+68 
+"No Me Conoce - Remix" 
+Jhay Cortez 
+
+85 
+"Medusa" 
+Jhay Cortez 
+
+159 
+"All of Me" 
+John Legend 
+
+31 
+"Run" 
+Joji 
+
+156 
+"SLOW DANCING IN THE DARK" 
+Joji 
+
+99 
+"Baby" 
+Joker Bra 
+
+185 
+"Only Human" 
+Jonas Brothers 
+
+100 
+"Sucker" 
+Jonas Brothers 
+
+34 
+"What A Man Gotta Do" 
+Jonas Brothers 
+
+61 
+"If The World Was Ending (feat. Julia Michaels)" 
+JP Saxe 
+
+111 
+"Robbery" 
+Juice WRLD 
+
+62 
+"Bandit (with YoungBoy Never Broke Again)" 
+Juice WRLD 
+
+59 
+"Lucid Dreams" 
+Juice WRLD 
+
+10 
+"Yummy" 
+Justin Bieber 
+
+164 
+"Get Me" 
+Justin Bieber 
+
+7 
+"Intentions" 
+Justin Bieber 
+
+171 
+"DJ No Pare (feat. Zion Dalex Lenny TavÃ¡rez) - Remix" 
+Justin Quiles 
+
+5 
+"Tusa" 
+KAROL G 
+
+188 
+"Eleven" 
+Khalid 
+
+189 
+"Talk (feat. Disclosure)" 
+Khalid 
+
+36 
+"Know Your Worth" 
+Khalid 
+
+114 
+"Get You The Moon (feat. SnÃ¸w)" 
+Kina 
+
+142 
+"Can We Kiss Forever?" 
+Kina 
+
+151 
+"Higher Love" 
+Kygo 
+
+113 
+"Forever Yours - Avicii Tribute" 
+Kygo 
+
+73 
+"Shallow" 
+Lady Gaga 
+
+160 
+"I Like Me Better" 
+Lauv 
+
+93 
+"Bruises" 
+Lewis Capaldi 
+
+22 
+"Before You Go" 
+Lewis Capaldi 
+
+15 
+"Someone You Loved" 
+Lewis Capaldi 
+
+190 
+"Sum 2 Prove" 
+Lil Baby 
+
+79 
+"Woah" 
+Lil Baby 
+
+53 
+"Blueberry Faygo" 
+Lil Mosey 
+
+77 
+"Old Town Road - Remix" 
+Lil Nas X 
+
+90 
+"Ransom" 
+Lil Tecca 
+
+103 
+"Futsal Shuffle 2020" 
+Lil Uzi Vert 
+
+145 
+"I Do It (ft. Big Sean & Lil Baby)" 
+Lil Wayne 
+
+124 
+"Good as Hell (feat. Ariana Grande) - Remix" 
+Lizzo 
+
+147 
+"Truth Hurts" 
+Lizzo 
+
+94 
+"Aventura" 
+Lunay 
+
+153 
+"Soltera - Remix" 
+Lunay 
+
+69 
+"Good News" 
+Mac Miller 
+
+144 
+"Que Calor (with J Balvin & El Alfa)" 
+Major Lazer 
+
+150 
+"Girls Like You (feat. Cardi B)" 
+Maroon 5 
+
+14 
+"Memories" 
+Maroon 5 
+
+88 
+"Happier" 
+Marshmello 
+
+123 
+"Piece Of Your Heart" 
+MEDUZA 
+
+27 
+"Lose Control" 
+MEDUZA 
+
+49 
+"Ballin' (with Roddy Ricch)" 
+Mustard 
+
+108 
+"Girl" 
+Myke Towers 
+
+149 
+"No Judgement" 
+Niall Horan 
+
+105 
+"Yikes" 
+Nicki Minaj 
+
+71 
+"Whine Up" 
+Nicky Jam 
+
+47 
+"MuÃ©velo" 
+Nicky Jam 
+
+92 
+"July" 
+Noah Cyrus 
+
+157 
+"All I Want - From ""High School Musical: The Musical: The Series""" 
+Olivia Rodrigo 
+
+173 
+"High Hopes" 
+Panic! At The Disco 
+
+176 
+"Pa' Olvidarme De Ella" 
+Piso 21 
+
+110 
+"Wow." 
+Post Malone 
+
+161 
+"Better Now" 
+Post Malone 
+
+102 
+"rockstar (feat. 21 Savage)" 
+Post Malone 
+
+81 
+"Goodbyes (Feat. Young Thug)" 
+Post Malone 
+
+43 
+"Sunflower - Spider-Man: Into the Spider-Verse" 
+Post Malone 
+
+13 
+"Circles" 
+Post Malone 
+
+112 
+"Bohemian Rhapsody - 2011 Mix" 
+Queen 
+
+42 
+"Fantasias" 
+Rauw Alejandro 
+
+181 
+"Psycho" 
+Red Velvet 
+
+32 
+"Ride It" 
+Regard 
+
+119 
+"Indeciso" 
+Reik 
+
+125 
+"Quizas" 
+Rich Music LTD 
+
+148 
+"Perreo en La Luna" 
+Rich Music LTD 
+
+29 
+"High Fashion (feat. Mustard)" 
+Roddy Ricch 
+
+1 
+"The Box" 
+Roddy Ricch 
+
+168 
+"Yo x Ti Tu x Mi" 
+ROSALÃ�A 
+
+184 
+"Con Altura" 
+ROSALÃ�A 
+
+33 
+"Roses - Imanbek Remix" 
+SAINt JHN 
+
+83 
+"How Do You Sleep?" 
+Sam Smith 
+
+186 
+"Too Good At Goodbyes" 
+Sam Smith 
+
+131 
+"Dancing With A Stranger (with Normani)" 
+Sam Smith 
+
+192 
+"Weiss" 
+Samra 
+
+132 
+"Si Te Vas" 
+Sech 
+
+196 
+"Otro Trago - Remix" 
+Sech 
+
+39 
+"Rare" 
+Selena Gomez 
+
+26 
+"Lose You To Love Me" 
+Selena Gomez 
+
+126 
+"Trampoline (with ZAYN)" 
+SHAED 
+
+48 
+"Me Gusta" 
+Shakira 
+
+18 
+"SeÃ±orita" 
+Shawn Mendes 
+
+172 
+"If I Can't Have You" 
+Shawn Mendes 
+
+84 
+"Own It (feat. Ed Sheeran & Burna Boy)" 
+Stormzy 
+
+55 
+"Sunday Best" 
+Surfaces 
+
+75 
+"Adicto (with Anuel AA & Ozuna)" 
+Tainy 
+
+78 
+"Only The Young - Featured in Miss Americana" 
+Taylor Swift 
+
+141 
+"You Need To Calm Down" 
+Taylor Swift 
+
+165 
+"Takeaway" 
+The Chainsmokers 
+
+89 
+"Heartless" 
+The Weeknd 
+
+3 
+"Blinding Lights" 
+The Weeknd 
+
+143 
+"GOODMORNINGTOKYO!" 
+TOKYOâ€™S REVENGE 
+
+74 
+"Never Seen the Rain" 
+Tones and I 
+
+2 
+"Dance Monkey" 
+Tones and I 
+
+155 
+"Broke In A Minute" 
+Tory Lane" 
+
+154 
+"goosebumps" 
+Travis Scott 
+
+51 
+"HIGHEST IN THE ROOM" 
+Travis Scott 
+
+130 
+"SICKO MODE" 
+Travis Scott 
+
+121 
+"HIGHEST IN THE ROOM (feat. ROSALÃ�A & Lil Baby) - REMIX" 
+Travis Scott 
+
+6 
+"Falling" 
+Trevor Daniel 
+
+57 
+"Ayy Macarena" 
+Tyga 
+
+174 
+"EARFQUAKE" 
+Tyler The Creator 
+
+167 
+"Moonlight" 
+XXXTENTACION 
+
+133 
+"Jocelyn Flores" 
+XXXTENTACION 
+
+128 
+"SAD!" 
+XXXTENTACION 
+
+70 
+"Lalala" 
+Y2K 
+
+28 
+"Suicidal" 
+YNW Melly 
