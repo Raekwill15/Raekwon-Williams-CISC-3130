@@ -1,4 +1,7 @@
 # Raekwon-Williams-CISC-3130
+
+An assignment for data structures. Using ArrayLists and methods to manipulate and display data from spotifies top 200 songs list.
+
 Raekwon Williams CISC 3130 HW2
 
 Notes
